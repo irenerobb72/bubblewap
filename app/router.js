@@ -8,8 +8,12 @@ export class Router {
   listen() {
     let that = this
     $(() => {
-      $('.circles').on('click', function() {
-        that.controller.changeColor()
+      $('.circles').on('click', function(e) {
+        var circle = $(e.target)
+        console.log(circle)
+        circle.css('fill', 'blue')
+
+        // that.controller.changeColor()
         // that.controller.addSound()
         // that.controller.changeSize()
       })
