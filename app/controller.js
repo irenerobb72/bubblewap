@@ -10,8 +10,8 @@ export class Controller {
     this.model.changeColor()
     this.view.render(this.model)
   }
-  addSound() {
-    this.model.addSound()
-    this.view.render(this.model)
-  }
+  // addSound() {
+  //   this.model.addSound()
+  //   this.view.render(this.model)
+  // }
 }

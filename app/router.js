@@ -10,8 +10,8 @@ export class Router {
     $(() => {
       $('.circles').on('click', function() {
         that.controller.changeColor()
-        that.controller.addSound()
-        that.controller.changeSize()
+        // that.controller.addSound()
+        // that.controller.changeSize()
       })
     })
   }

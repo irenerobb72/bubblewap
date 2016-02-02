@@ -1,16 +1,17 @@
 import $ from 'jquery'
-const circleList = {
-  // 1: 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen', 'nineteen', 'twenty', 'twentyone', 'twentytwo', 'twentythree', 'twentyfour', 'twentyfive'
-}
+
 export class Model {
   constructor() {
-    console.log('hiiajdf;')
     this.counter = 0
-    this.board = $('.circles').css('color', 'orange')
+    this.board = $('circle').css('fill', '#dda0dd')
+    var circle = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen', 'nineteen']
     }
   changeColor(circleList) {
-    if (circleList[this.counter]) {
-      this.board.color('blue')
+    this.counter++
+    if (this.counter === 1) {
+      $('circle').each(function(circle) {
+        $(circle).css('fill', '#40e0d0')
+      })
     }
   }
   changeSize() {
