@@ -10,8 +10,15 @@ export class Router {
     $(() => {
       $('.circles').on('click', function(e) {
         var circle = $(e.target)
-        console.log(circle)
         circle.css('fill', 'blue')
+        var audioElement = document.createElement('audio')
+        audioElement.setAttribute('src', 'audio/Dank Soundboard 1.app')
+        audioElement.setAttribute('autoplay', 'autoplay')
+
+        $.get()
+        audioElement.addEventListener("load", function() {
+          audioElement.play()
+        }, true)
 
         // that.controller.changeColor()
         // that.controller.addSound()

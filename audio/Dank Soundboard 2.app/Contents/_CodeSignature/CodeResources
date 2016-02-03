@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Resources/1738.wav</key>
+		<data>
+		OhdTPGYedhMyWF1reDwBjbnXChs=
+		</data>
+		<key>Resources/Another one DJ Khaled audio.wav</key>
+		<data>
+		hZMIFIFpYD6tSRqmQgJfe3dIZCM=
+		</data>
+		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q19hnSJX0sNL6TPebouhrTR5G2w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CxYRSFBXVBJz+uHbCm1FeIOPDOQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/NSViewController-XfG-lQ-9wD.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DmxJ4FrcFcSBuVYiHmIjqmtP+aE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/TK4jS0+oo8GtzB01JmJcVqfZdY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Colombia.wav</key>
+		<data>
+		Ww0WUqW1LF+CR1zb8cmn+LLK08s=
+		</data>
+		<key>Resources/Fetty Wap Aye.wav</key>
+		<data>
+		MMHXR3Pw+0VJyQr6aKOntOhEVCE=
+		</data>
+		<key>Resources/Fire Everything.wav</key>
+		<data>
+		7LpwFy2T2YXbO7WRWsiuDZ3DCYQ=
+		</data>
+		<key>Resources/Gotem.wav</key>
+		<data>
+		0/4lKd6Zvjne2ZD5njVpijhrRFE=
+		</data>
+		<key>Resources/Hotline Bling Effect.wav</key>
+		<data>
+		XkzDlQi3Or30cGv9FFHr/7go5VE=
+		</data>
+		<key>Resources/Illuminati Confirmed Sound Effect.wav</key>
+		<data>
+		N2jG/pNl4DQVY5M7ERKVNoe/hUU=
+		</data>
+		<key>Resources/Im Really Rich.wav</key>
+		<data>
+		VLegDr9TQqjhRclu7vp7epU+dr0=
+		</data>
+		<key>Resources/Jellybeans Up My Ass.wav</key>
+		<data>
+		S/mRrN5/ABFXKj4lUd5funv0lPc=
+		</data>
+		<key>Resources/Lambo and Knowledge.wav</key>
+		<data>
+		rQ7ZJZzi+y5i1S0kVbVpCeuhFTE=
+		</data>
+		<key>Resources/Ludacris Move Bitch.wav</key>
+		<data>
+		SbFAdkMz4nQD949pZaFRk7jSza8=
+		</data>
+		<key>Resources/Major Key.wav</key>
+		<data>
+		jf9h7mVlr47OEG30vHHFHo+tC7Q=
+		</data>
+		<key>Resources/Million Dollars.wav</key>
+		<data>
+		BmLyeq1mZFeL5Y7EscM/j7JH4Tg=
+		</data>
+		<key>Resources/Not A Wizard.wav</key>
+		<data>
+		inh7OR4DfBvH5X2XPzb03nCLfTw=
+		</data>
+		<key>Resources/React.wav</key>
+		<data>
+		hXzfOLqbEFkulBJP6LItBRPYmN0=
+		</data>
+		<key>Resources/Squaw.wav</key>
+		<data>
+		lymhAmXU5yHsjR3sVFlmt3dsXbo=
+		</data>
+		<key>Resources/Tactical nuke.wav</key>
+		<data>
+		v4q6OM0IEIySsAklyMd+bgUmAf4=
+		</data>
+		<key>Resources/They don't want.wav</key>
+		<data>
+		uu6q04e17xUcHU8UMqA9ttdQHoo=
+		</data>
+		<key>Resources/Vine - Breakfast (Beakfast) Sound Effect.mp3</key>
+		<data>
+		XonB27n6o9UPex97NeBbnb4b6uA=
+		</data>
+		<key>Resources/Vine - Nigga Gay.wav</key>
+		<data>
+		LB3c51rHZwQNAkkbYOSoangWt60=
+		</data>
+		<key>Resources/What Are Those.wav</key>
+		<data>
+		E6eyJg4XhsRfJ8hil0/YYIHjcxY=
+		</data>
+		<key>Resources/soundappbg.png</key>
+		<data>
+		EWpCNepQ7rG37B2f7F9cIKb4mRA=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>Frameworks/libswiftAppKit.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			BfWCqDz3l/ei3lMoRHzUs0Faz1I=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"05f582a83cf797f7a2de5328447cd4b3415acf52"</string>
+		</dict>
+		<key>Frameworks/libswiftCore.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			KErlQnFHB1oAtlbBqagrepY0Pi0=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"284ae5427147075a00b656c1a9a82b7a96343e2d"</string>
+		</dict>
+		<key>Frameworks/libswiftCoreData.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			+qOGIC1K4Jw18cvmWMeAL/7vb30=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"faa386202d4ae09c35f1cbe658c7802ffeef6f7d"</string>
+		</dict>
+		<key>Frameworks/libswiftCoreGraphics.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			gMATYaSfUYMCuY6NOWxpSdXV0rc=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"80c01361a49f518302b98e8d396c6949d5d5d2b7"</string>
+		</dict>
+		<key>Frameworks/libswiftCoreImage.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			xmyuSLfv82vL65/t1QEU7z/DC48=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"c66cae48b7eff36bcbeb9fedd50114ef3fc30b8f"</string>
+		</dict>
+		<key>Frameworks/libswiftDarwin.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			TjFVRc30ZSuhgWSatSHtAUEyiqM=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"4e315545cdf4652ba181649ab521ed0141328aa3"</string>
+		</dict>
+		<key>Frameworks/libswiftDispatch.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			yBUpkqP7Wv2E7BLzAMjTMV5pPIU=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"c8152992a3fb5afd84ec12f300c8d3315e693c85"</string>
+		</dict>
+		<key>Frameworks/libswiftFoundation.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			sf16n9ERJGQqjYPT05wC3zeiItQ=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"b1fd7a9fd11124642a8d83d3d39c02df37a222d4"</string>
+		</dict>
+		<key>Frameworks/libswiftObjectiveC.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			4R3j0BKBovRFuiMv3qqfuODkyB8=
+			</data>
+			<key>requirement</key>
+			<string>cdhash H"e11de3d01281a2f445ba232fdeaa9fb8e0e4c81f"</string>
+		</dict>
+		<key>Resources/1738.wav</key>
+		<data>
+		OhdTPGYedhMyWF1reDwBjbnXChs=
+		</data>
+		<key>Resources/Another one DJ Khaled audio.wav</key>
+		<data>
+		hZMIFIFpYD6tSRqmQgJfe3dIZCM=
+		</data>
+		<key>Resources/Base.lproj/Main.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q19hnSJX0sNL6TPebouhrTR5G2w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CxYRSFBXVBJz+uHbCm1FeIOPDOQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/NSViewController-XfG-lQ-9wD.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DmxJ4FrcFcSBuVYiHmIjqmtP+aE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/TK4jS0+oo8GtzB01JmJcVqfZdY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/Colombia.wav</key>
+		<data>
+		Ww0WUqW1LF+CR1zb8cmn+LLK08s=
+		</data>
+		<key>Resources/Fetty Wap Aye.wav</key>
+		<data>
+		MMHXR3Pw+0VJyQr6aKOntOhEVCE=
+		</data>
+		<key>Resources/Fire Everything.wav</key>
+		<data>
+		7LpwFy2T2YXbO7WRWsiuDZ3DCYQ=
+		</data>
+		<key>Resources/Gotem.wav</key>
+		<data>
+		0/4lKd6Zvjne2ZD5njVpijhrRFE=
+		</data>
+		<key>Resources/Hotline Bling Effect.wav</key>
+		<data>
+		XkzDlQi3Or30cGv9FFHr/7go5VE=
+		</data>
+		<key>Resources/Illuminati Confirmed Sound Effect.wav</key>
+		<data>
+		N2jG/pNl4DQVY5M7ERKVNoe/hUU=
+		</data>
+		<key>Resources/Im Really Rich.wav</key>
+		<data>
+		VLegDr9TQqjhRclu7vp7epU+dr0=
+		</data>
+		<key>Resources/Jellybeans Up My Ass.wav</key>
+		<data>
+		S/mRrN5/ABFXKj4lUd5funv0lPc=
+		</data>
+		<key>Resources/Lambo and Knowledge.wav</key>
+		<data>
+		rQ7ZJZzi+y5i1S0kVbVpCeuhFTE=
+		</data>
+		<key>Resources/Ludacris Move Bitch.wav</key>
+		<data>
+		SbFAdkMz4nQD949pZaFRk7jSza8=
+		</data>
+		<key>Resources/Major Key.wav</key>
+		<data>
+		jf9h7mVlr47OEG30vHHFHo+tC7Q=
+		</data>
+		<key>Resources/Million Dollars.wav</key>
+		<data>
+		BmLyeq1mZFeL5Y7EscM/j7JH4Tg=
+		</data>
+		<key>Resources/Not A Wizard.wav</key>
+		<data>
+		inh7OR4DfBvH5X2XPzb03nCLfTw=
+		</data>
+		<key>Resources/React.wav</key>
+		<data>
+		hXzfOLqbEFkulBJP6LItBRPYmN0=
+		</data>
+		<key>Resources/Squaw.wav</key>
+		<data>
+		lymhAmXU5yHsjR3sVFlmt3dsXbo=
+		</data>
+		<key>Resources/Tactical nuke.wav</key>
+		<data>
+		v4q6OM0IEIySsAklyMd+bgUmAf4=
+		</data>
+		<key>Resources/They don't want.wav</key>
+		<data>
+		uu6q04e17xUcHU8UMqA9ttdQHoo=
+		</data>
+		<key>Resources/Vine - Breakfast (Beakfast) Sound Effect.mp3</key>
+		<data>
+		XonB27n6o9UPex97NeBbnb4b6uA=
+		</data>
+		<key>Resources/Vine - Nigga Gay.wav</key>
+		<data>
+		LB3c51rHZwQNAkkbYOSoangWt60=
+		</data>
+		<key>Resources/What Are Those.wav</key>
+		<data>
+		E6eyJg4XhsRfJ8hil0/YYIHjcxY=
+		</data>
+		<key>Resources/soundappbg.png</key>
+		<data>
+		EWpCNepQ7rG37B2f7F9cIKb4mRA=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
