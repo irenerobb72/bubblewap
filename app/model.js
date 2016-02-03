@@ -8,21 +8,7 @@ export class Model {
     }
   changeColor() {
     this.counter++
-    if (this.counter === 1) {
-
-    }
   }
   changeSize() {
-
-  }
-  addSound() {
-    var audioElement = document.createElement('audio')
-    audioElement.setAttribute('src', 'audio/fettwap.mp3')
-    audioElement.setAttribute('autoplay', 'autoplay')
-    $.get()
-    audioElement.addEventListener("load", function() {
-      audioElement.Play()
-    }, true)
-
   }
 }
