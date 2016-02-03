@@ -6,12 +6,17 @@ export class Controller {
     this.model = new Model()
     this.view = new View()
   }
+  createBoard() {
+    this.model.createBoard(
+    this.view.render(this.model)
+    )
+  }
   changeColor() {
     this.model.changeColor()
     this.view.render(this.model)
   }
-  // addSound() {
-  //   this.model.addSound()
-  //   this.view.render(this.model)
-  // }
+  addSound() {
+    this.model.addSound()
+    this.view.render(this.model)
+  }
 }
