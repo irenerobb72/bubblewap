@@ -7,12 +7,8 @@ export class Model {
     // var circle = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine', 'ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen', 'nineteen']
     }
   createBoard() {
-    var initial = new Array(5).fill('')
-    var board = initial.map((cell) => {
-      return new Array(5).fill('<svg><circle r="10"></circle></svg>')
-    })
-    return board
-    console.log(board)
+    var circle = svg.selectAll('circle')
+    circle.style('fill', 'steelblue')
   }
   changeColor() {
     this.counter++

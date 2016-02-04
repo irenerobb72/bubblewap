@@ -13,8 +13,10 @@ export class Router {
         circle.css('fill', 'blue')
 
         that.controller.addSound()
-
       })
     })
   }
+  document.addEventListener("DOMContentLoad", () {
+    that.controller.createBoard()
+  })
 }
