@@ -16,7 +16,9 @@ export class Game extends Component {
 
   }
   render() {
-
+    <div className="board">
+      <Circles/>
+    </div>
   }
 }
 
