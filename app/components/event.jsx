@@ -12,6 +12,7 @@ export class Event extends Component {
     e.preventDefault()
     var circle = $(e.target)
     <Audio />
+    <Circles />
   }
   render() {
 

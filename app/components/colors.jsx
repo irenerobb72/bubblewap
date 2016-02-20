@@ -7,6 +7,9 @@ export class Colors extends Component {
   constructor(props) {
     super(props)
   }
+  changeColor() {
+    
+  }
   render() {
     return (
 
