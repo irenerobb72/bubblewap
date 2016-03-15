@@ -17,15 +17,15 @@ module.exports = {
     }
   ]},
   resolve: {
-    extensions: ['', '.js', '.jsx']
+    extensions: ['', '.js']
   },
   output: {
-    path: __dirname + '/dist',
+    path: __dirname + '/',
     publicPath: '/',
     filename: 'bundle.js'
   },
   devServer: {
-    contentBase: './dist'
+    contentBase: '/'
   },
   sassLoader: {
      includePaths: [path.resolve(__dirname, "./styles")]
